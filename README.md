@@ -69,7 +69,7 @@ This project aims to address these challenges using data analysis and visualizat
 ## Power BI Dashboard
 The dashboard provides an interactive view of vendor performance, sales trends, profitability, and inventory risks.
 
-![Power BI Dashboard](dashboard/powerbi_dashboard.png)
+![Power BI Dashboard](Dashboard/powerbi_dashboard.png)
 
 ---
 
